@@ -1,0 +1,18 @@
+[
+    {
+        "account_number": "Hgio45@#",
+        "name": "Ayaz",
+        "age": 21,
+        "email": "ayaz@gmail.com",
+        "pin": 1234,
+        "balance": 4000
+    },
+    {
+        "account_number": "Dmgh65@!",
+        "name": "Nikhil Chaudhary",
+        "age": 20,
+        "email": "nikhil@gmail.com",
+        "pin": 1234,
+        "balance": 0
+    }
+]
